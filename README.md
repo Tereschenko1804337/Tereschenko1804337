@@ -1,11 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexey
-==============================================================================================================================
+# Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Меня зовут Алексей!
 
-Разработчик ПО
---------------
+### Обо мне
+Я BackEnd-разработчик python.
+Ещё со школьных времён меня сильно заинтересовала эта сфера тем, что можно создавать и творить различные полезные программы для других людей! 
+Программирование является моей работой и хобии =)
 
-Занимаюсь разработкой на python Django, Dart Flutter и C#### Skills 
 
+## Используемые технологии
 |Языки|Библиотеки|Технологии| Операционные<br>системы                                                                                                                                                                                                           |Прочее|
 |-|-|-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-|
 |<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>|<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>|<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>| <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a> |<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>|
